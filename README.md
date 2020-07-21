@@ -6,7 +6,7 @@ Z2. 나는 요리사다 https://www.acmicpc.net/problem/2953
 
 Z3. 서로 다른 부분 문자열의 개수 https://www.acmicpc.net/problem/11478 
 
-Z4. 큰 수 A+B https://www.acmicpc.net/problem/10757 
+Z4. 큰 수 A+B https://www.acmicpc.net/problem/10757 (완료)
 
 Z5. 나머지 https://www.acmicpc.net/problem/3052 
 
@@ -14,7 +14,7 @@ Z6. 오르막길 https://www.acmicpc.net/problem/2846
 
 Z7. 빠른 A+B https://www.acmicpc.net/problem/15552 
 
-Z8. OX퀴즈 https://www.acmicpc.net/problem/8958
+Z8. OX퀴즈 https://www.acmicpc.net/problem/8958 (완료)
 
 -------
 
