@@ -54,7 +54,7 @@ B4. 날짜 계산
 https://www.acmicpc.net/problem/1476
 
 B5. 피보나치 수의 개수
-https://www.acmicpc.net/problem/6571
+https://www.acmicpc.net/problem/6571 (완료)
 
 B6. Best Time to Buy and Sell Stock
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
