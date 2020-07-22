@@ -9,6 +9,7 @@ public class N11478 {
 		
 		String str = s.next();
 		HashSet<String> hs = new HashSet<String>();
+		
 		for(int i=0; i<str.length();i++) {
 			for(int j=i; j<str.length();j++) {
 				hs.add(str.substring(i, j+1));
