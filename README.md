@@ -71,7 +71,7 @@ C2. 삼각김밥
 https://www.acmicpc.net/problem/2783
 
 C3. 고득점
-https://www.acmicpc.net/problem/3663
+https://www.acmicpc.net/problem/3663 (완료)
 
 C4. 직각삼각형
 https://www.acmicpc.net/problem/3000
